@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLRe-OS9-NWInztYfWCCX3uJ56gu7jBAF2tVewlDoaMJYlgOijg8YDdZnlgQwNvJOU0E&usqp=CAU");
+    background-size: 100vh 100vw;
+    font-family: Garamond, serif;
+}
+h1 {
+    text-align: center;
+    font-variant: small-caps;
+    text-shadow: 2px 2px 4px black;
+    margin-top: 3.28vh;
+    font-size: 6.3vh;
+}
+img.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    border-radius: 3px;
+    box-shadow: 3px 4px 5px #EE9A49;
+    margin-top: 1,7vh;
+}
+h2{
+    text-align: center;
+    font-variant: small-caps;
+    margin-top: 4.9vh;
+    font-size: 4.9vh;
+}
+p {
+    text-align: justify;
+    margin: 2.4vh 1.5vw 0px 1.5vw;
+    font-size: 2.8vh;
+}
+img.img2 {
+    width: 35%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+    box-shadow: 3px 4px 5px #EE9A49;
+    margin-top: 0.8vh;
+}
+h3{
+    margin: 2.4vh 1.17vw;
+    font-size: 3.6vh;
+}
+footer{
+    margin-bottom: 4.9vh;
+}
+a{
+    color:#8B4513;
+    text-decoration: none;
+}
